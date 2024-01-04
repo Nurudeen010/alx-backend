@@ -1,1 +1,1 @@
-# Caching is one of the essential way to increase the request's speed on a website.
+# Let cache it more
